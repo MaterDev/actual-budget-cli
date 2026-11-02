@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+<title id="t">actual-budget-cli</title><desc id="d">A terminal window, a dashed preview card showing values before and after, a backup box, and a budget envelope receiving the change.</desc>
+<defs><marker id="head" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#2B2A28" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="0" y="0" width="1200" height="400" rx="20" fill="#F7F4EE"/>
+<line x1="60" y1="330" x2="1140" y2="330" stroke="#CFC8BA" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="70" y="120" width="230" height="170" rx="12" fill="#2B2A28" stroke="none"/>
+<circle cx="92" cy="140" r="5" fill="#6B675F"/>
+<circle cx="110" cy="140" r="5" fill="#6B675F"/>
+<circle cx="128" cy="140" r="5" fill="#6B675F"/>
+<rect x="90" y="172" width="120" height="9" rx="4" fill="#CFC8BA" stroke="none"/>
+<rect x="90" y="194" width="160" height="9" rx="4" fill="#CFC8BA" stroke="none"/>
+<rect x="90" y="216" width="96" height="9" rx="4" fill="#CFC8BA" stroke="none"/>
+<rect x="90" y="238" width="140" height="9" rx="4" fill="#CFC8BA" stroke="none"/>
+<rect x="90" y="258" width="14" height="14" rx="2" fill="#2F7D6B" stroke="none"/>
+<rect x="380" y="70" width="340" height="250" rx="14" fill="#FFFFFF" stroke="#2B2A28" stroke-width="2" stroke-linejoin="round" stroke-dasharray="10 8"/>
+<rect x="412" y="120" width="110" height="16" rx="8" fill="#CFC8BA" stroke="none"/>
+<rect x="412" y="170" width="80" height="16" rx="8" fill="#CFC8BA" stroke="none"/>
+<rect x="412" y="220" width="130" height="16" rx="8" fill="#CFC8BA" stroke="none"/>
+<rect x="412" y="270" width="60" height="16" rx="8" fill="#CFC8BA" stroke="none"/>
+<path d="M548 121 L558 128 L548 135" fill="none" stroke="#6B675F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M548 171 L558 178 L548 185" fill="none" stroke="#6B675F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M548 221 L558 228 L548 235" fill="none" stroke="#6B675F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M548 271 L558 278 L548 285" fill="none" stroke="#6B675F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="588" y="120" width="96" height="16" rx="8" fill="#2F7D6B" stroke="none"/>
+<rect x="588" y="170" width="104" height="16" rx="8" fill="#2F7D6B" stroke="none"/>
+<rect x="588" y="220" width="70" height="16" rx="8" fill="#2F7D6B" stroke="none"/>
+<rect x="588" y="270" width="100" height="16" rx="8" fill="#2F7D6B" stroke="none"/>
+<rect x="795" y="248" width="120" height="72" rx="6" fill="#DCEDE6" stroke="#2B2A28" stroke-width="3" stroke-linejoin="round"/>
+<rect x="787" y="230" width="136" height="22" rx="6" fill="#DCEDE6" stroke="#2B2A28" stroke-width="3" stroke-linejoin="round"/>
+<rect x="837.0" y="266" width="36" height="8" rx="4" fill="#1F5A4C"/>
+<rect x="1030" y="112" width="60" height="62" rx="4" fill="#2F7D6B" stroke="none"/>
+<rect x="975" y="150" width="170" height="115" rx="8" fill="#FFFFFF" stroke="#2B2A28" stroke-width="4.5" stroke-linejoin="round"/>
+<path d="M975 158 L1060.0 213.25 L1145 158" fill="none" stroke="#2B2A28" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M305 205 Q338.5 205.0 372 205" fill="none" stroke="#2B2A28" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 6" marker-end="url(#head)"/>
+<path d="M728 260 Q757.0 266.0 786 272" fill="none" stroke="#2B2A28" stroke-width="3" stroke-linecap="round" marker-end="url(#head)"/>
+<path d="M922 268 Q942.0 219.0 962 218" fill="none" stroke="#2B2A28" stroke-width="4.5" stroke-linecap="round" marker-end="url(#head)"/>
+<text x="550" y="352" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#6B675F">preview</text>
+<text x="855" y="352" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#6B675F">back up</text>
+<text x="1060" y="352" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#6B675F">apply</text>
+</svg>

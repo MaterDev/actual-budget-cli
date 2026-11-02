@@ -1,0 +1,13 @@
+{
+  "name": "actual-budget-cli",
+  "version": "0.1.0",
+  "description": "A careful command line for Actual Budget: every change is previewed first, backed up, and logged.",
+  "type": "module",
+  "bin": { "actual-budget": "bin/actual-budget.mjs" },
+  "engines": { "node": ">=22" },
+  "license": "MIT",
+  "private": true,
+  "repository": { "type": "git", "url": "https://github.com/MaterDev/actual-budget-cli.git" },
+  "keywords": ["actual", "actual-budget", "budget", "envelope-budgeting", "cli", "personal-finance"],
+  "dependencies": { "@actual-app/api": "26.11.0" }
+}
